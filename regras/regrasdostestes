@@ -1,0 +1,11 @@
+# Regras de Negócio
+
+## Calculadora de Desconto
+
+Regras implementadas:
+
+- Se valor < 100 → sem desconto
+- Se valor entre 100 e 500 → 10% de desconto
+- Se valor > 500 → 20% de desconto
+- Se cliente for VIP → +5% adicional
+- Valor nunca pode ser negativo
