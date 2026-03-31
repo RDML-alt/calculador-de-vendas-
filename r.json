@@ -1,0 +1,13 @@
+{
+  "name": "calculadora-desconto",
+  "version": "1.0.0",
+  "description": "Projeto com testes unitários e 100% de cobertura",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "node src/index.js"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
